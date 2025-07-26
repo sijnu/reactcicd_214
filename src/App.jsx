@@ -1,6 +1,11 @@
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+//import viteLogo from '/vite.svg'
+//import viteLogo from '/vite.svg'
+// import viteLogo from '/vite.svg'  // Remove this line
+
+const viteLogo = "https://vitejs.dev/logo.svg"; // Use online logo or local image inside src
+
 import './App.css'
 
 function App() {
